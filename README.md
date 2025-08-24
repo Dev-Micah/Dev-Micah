@@ -7,8 +7,6 @@
 
 - I’m currently building cool **Native Android apps using Kotlin and Jetpack Compose**
 
-- I’m currently learning **Spring boot**
-
 - I’m looking to collaborate on **projects**
 
 - How to reach me **atembamicah@gmail.com**
