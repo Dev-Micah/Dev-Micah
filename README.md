@@ -10,7 +10,6 @@
 - I’m looking to collaborate on **projects**
 
 - Email **atembamicah@gmail.com**
-- Phone **+254769782503**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
